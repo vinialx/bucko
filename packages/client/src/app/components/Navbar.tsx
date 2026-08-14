@@ -10,7 +10,7 @@ export default function Navbar() {
             <a> </a>
           </li>
           <li className="hover:bg-secondary hover:text-primary rounded-md px-2 py-3">
-            <a> Teste </a>
+            <a> </a>
           </li>
           <li className="hover:bg-secondary hover:text-primary rounded-md px-2 py-3">
             <a> Teste </a>
